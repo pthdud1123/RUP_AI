@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pp</folder>
+	<filename>IMG_3643.JPG</filename>
+	<path>C:\mini_0u0_\pp\IMG_3643.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1642</xmin>
+			<ymin>1890</ymin>
+			<xmax>1855</xmax>
+			<ymax>2138</ymax>
+		</bndbox>
+	</object>
+</annotation>
