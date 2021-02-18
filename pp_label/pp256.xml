@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pp</folder>
+	<filename>pp256.png</filename>
+	<path>C:\mini_0u0_\RUP_AI\pp\pp256.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>315</ymin>
+			<xmax>345</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
